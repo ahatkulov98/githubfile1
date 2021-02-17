@@ -3,5 +3,7 @@ let y=5;
 console.log(x>y);       
 let x='azo';
 result= x=='azo' ? 'chegirma=20%' : 'chegirma=5%'; 
-
+//birniA
+console.log(x);
+ 
 console.log(result);
